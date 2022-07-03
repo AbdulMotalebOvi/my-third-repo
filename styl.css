@@ -6,3 +6,16 @@ h1 , h2, h3, p{
     text-align: center;
     padding: 20px 0px;
 }
+.btn{
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 12px;
+    background-color: antiquewhite;
+    color: blue;
+    text-transform: uppercase;
+    transition: all linear .4s;
+}
+.btn:hover{
+    background-color: cadetblue;
+    color: #fff;
+}
