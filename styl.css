@@ -1,0 +1,8 @@
+h1 , h2, h3, p{
+    background-color: burlywood;
+    color: black;
+    border: 5px dotted red;
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px 0px;
+}
